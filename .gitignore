@@ -1,0 +1,6 @@
+# ignore compiled python 2 files
+*.pyc
+# ignore python files
+*.py
+# ignore all .a and .o files
+*.[ao]
